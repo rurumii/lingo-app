@@ -25,3 +25,4 @@ Lingo is a mobile application for learning Japanese Kanji, developed as a projec
 <p align="center">
   <img src="images/lingo_img.png" alt="Lingo App Showcase" width="100%">
 </p>
+
