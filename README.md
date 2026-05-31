@@ -21,3 +21,7 @@ Lingo is a mobile application for learning Japanese Kanji, developed as a projec
 3. Wait for the **Gradle** sync to complete
 4. Run the app on an emulator (API 33+ recommended) or a physical device
 
+## App Interface Showcase
+<p align="center">
+  <img src="images/lingo_img.jpg" alt="Lingo App Showcase" width="100%">
+</p>
